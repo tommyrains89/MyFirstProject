@@ -34,14 +34,5 @@ He likes running around while I sit on a bench with my laptop pretending to “w
 
 ---
 
-## Current files
-
-- `test.py` – me experimenting with Python loops  
-- `notes.txt` – random coding notes  
-- `scout.jpg` – testing image upload  
-- more stuff coming soon!
-
----
-
 If you see this repo by accident: hi!  
 I'm still new to all this, so don't judge the messy structure too hard 😅  
